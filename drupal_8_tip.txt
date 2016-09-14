@@ -4,3 +4,5 @@ try {
 catch (EntityStorageException $e) {
   print_r($e);
 }
+
+test new
